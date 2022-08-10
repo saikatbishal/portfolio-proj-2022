@@ -7,3 +7,6 @@ const clickEventListener = () => {
     });
 }
 export default clickEventListener;
+/*
+New comment on the App.js file -- changed locally
+*/
