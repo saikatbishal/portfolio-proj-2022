@@ -6,3 +6,4 @@ const clickEventListener = () => {
         console.log('click event encountered');
     });
 }
+export default clickEventListener;
